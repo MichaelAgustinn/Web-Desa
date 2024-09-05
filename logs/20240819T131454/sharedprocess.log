@@ -1,0 +1,14 @@
+2024-08-19 13:14:59.560 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2024-08-19 13:14:59.570 [info] Installing extension: bmewburn.vscode-intelephense-client {"productVersion":{"version":"1.92.1","date":"2024-08-07T20:16:39.455Z"},"pinned":false,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/root/.vscode/extensions/extensions.json","path":"/root/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-08-19 13:15:05.952 [info] Extension signature verification result for bmewburn.vscode-intelephense-client: UnknownError. Executed: true. Duration: 12ms.
+2024-08-19 13:15:06.217 [info] Extracted extension to file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.4: bmewburn.vscode-intelephense-client
+2024-08-19 13:15:06.229 [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.4
+2024-08-19 13:15:06.239 [info] Marked extension as uninstalled bmewburn.vscode-intelephense-client-1.10.4
+2024-08-19 13:15:06.243 [info] Extension installed successfully: bmewburn.vscode-intelephense-client vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-08-19 13:15:06.321 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at o.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19408)
+    at u (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19519)
+    at p.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36714)
+    at p.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:29034)
+    at async c.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14940)
+    at async z.ub (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:120384)

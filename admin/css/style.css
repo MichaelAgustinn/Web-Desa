@@ -1,0 +1,23 @@
+img {
+    height: 200px;
+}
+
+.profil {
+    height: 150px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 20px;
+}

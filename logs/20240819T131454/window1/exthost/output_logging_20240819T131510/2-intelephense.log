@@ -1,0 +1,10 @@
+[Info  - 1:16:25 PM] Initialising intelephense 1.12.4
+[Info  - 1:16:25 PM] Initialised in 7 ms
+[Info  - 1:16:25 PM] Searching file:///root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.4/node_modules/intelephense/lib/stub for files to index.
+[Info  - 1:16:25 PM] Searching file:///opt/lampp/htdocs/webdesa for files to index.
+[Info  - 1:16:25 PM] Indexing started.
+[Info  - 1:16:26 PM] Searching file:///opt/lampp/htdocs/webdesa/User/globalStorage/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 1:16:26 PM] Searching file:///opt/lampp/htdocs/webdesa/User/workspaceStorage/4fe667cdf722e8c33eb4ff7e1138ebc1/bmewburn.vscode-intelephense-client for files to index.
+[Info  - 1:16:26 PM] Indexing ended. 184 files indexed in 0s.
+[Info  - 1:16:26 PM] Writing state to /opt/lampp/htdocs/webdesa/User/workspaceStorage/4fe667cdf722e8c33eb4ff7e1138ebc1/bmewburn.vscode-intelephense-client/5afdab85.
+[Info  - 1:16:26 PM] Wrote state in 0.1s.

@@ -1,0 +1,174 @@
+Judul: 13 Bom di Jakarta
+Genre: Aksi
+Hari: Senin
+Jam: 09.00
+Ruangan: Studio 1
+Harga: 35000
+
+Judul: Budi Pekerti
+Genre: Drama
+Hari: Senin
+Jam: 09.00
+Ruangan: Studio 2
+Harga: 35000
+
+Judul: Diambang Kematian
+Genre: Horor
+Hari: Senin
+Jam: 09.00
+Ruangan: Studio 3
+Harga: 35000
+
+Judul: Agak Laen
+Genre: Komedi
+Hari: Senin
+Jam: 09.00
+Ruangan: Studio 4
+Harga: 35000
+
+Judul: Dilan
+Genre: Romantis
+Hari: Senin
+Jam: 09.00
+Ruangan: Studio 5
+Harga: 35000
+
+Judul: Balada Si Roy
+Genre: Aksi
+Hari: Selasa
+Jam: 11.00
+Ruangan: Studio 1
+Harga: 35000
+
+Judul: Gara Gara Warisan
+Genre: Drama
+Hari: Selasa
+Jam: 11.00
+Ruangan: Studio 2
+Harga: 35000
+
+Judul: KKN di Desa Penari
+Genre: Horor
+Hari: Selasa
+Jam: 11.00
+Ruangan: Studio 3
+Harga: 35000
+
+Judul: Cek Toko Sebelah
+Genre: Komedi
+Hari: Selasa
+Jam: 11.00
+Ruangan: Studio 4
+Harga: 35000
+
+Judul: Film Galaksi
+Genre: Romantis
+Hari: Selasa
+Jam: 11.00
+Ruangan: Studio 5
+Harga: 35000
+
+Judul: Gatot Kaca
+Genre: Aksi
+Hari: Rabu
+Jam: 14.00
+Ruangan: Studio 1
+Harga: 35000
+
+Judul: Keluarga Cemara 2
+Genre: Drama
+Hari: Rabu
+Jam: 14.00
+Ruangan: Studio 2
+Harga: 35000
+
+Judul: Mamkmum 2
+Genre: Horor
+Hari: Rabu
+Jam: 14.00
+Ruangan: Studio 3
+Harga: 35000
+
+Judul: Kejar Mimpi Gaspol
+Genre: Komedi
+Hari: Rabu
+Jam: 14.00
+Ruangan: Studio 4
+Harga: 35000
+
+Judul: Gita Cinta Dari SMA
+Genre: Romantis
+Hari: Rabu
+Jam: 14.00
+Ruangan: Studio 5
+Harga: 35000
+
+Judul: Mencuri Raden Saleh
+Genre: Aksi
+Hari: Kamis
+Jam: 16.00
+Ruangan: Studio 1
+Harga: 35000
+
+Judul: Nanti Kita Cerita Tentang Hari Ini
+Genre: Drama
+Hari: Kamis
+Jam: 16.00
+Ruangan: Studio 2
+Harga: 35000
+
+Judul: Satan's Slaves
+Genre: Horor
+Hari: Kamis
+Jam: 16.00
+Ruangan: Studio 3
+Harga: 35000
+
+Judul: My Stupid Bos
+Genre: Komedi
+Hari: Kamis
+Jam: 16.00
+Ruangan: Studio 4
+Harga: 35000
+
+Judul: I'm Perfect
+Genre: Romantis
+Hari: Kamis
+Jam: 16.00
+Ruangan: Studio 5
+Harga: 35000
+
+Judul: The Big 4
+Genre: Aksi
+Hari: Jumat
+Jam: 20.00
+Ruangan: Studio 1
+Harga: 40000
+
+Judul: Ngeri Ngeri Sedap
+Genre: Drama
+Hari: Jumat
+Jam: 20.00
+Ruangan: Studio 2
+Harga: 40000
+
+Judul: Siksa Neraka
+Genre: Horor
+Hari: Jumat
+Jam: 20.00
+Ruangan: Studio 3
+Harga: 40000
+
+Judul: Warkop DKI Reborn
+Genre: Komedi
+Hari: Jumat
+Jam: 20.00
+Ruangan: Studio 4
+Harga: 40000
+
+Judul: Mariposa
+Genre: Romantis
+Hari: Jumat
+Jam: 20.00
+Ruangan: Studio 5
+Harga: 40000

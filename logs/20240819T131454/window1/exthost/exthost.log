@@ -1,0 +1,144 @@
+2024-08-19 13:14:55.736 [info] Extension host with pid 13696 started
+2024-08-19 13:14:55.836 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-19 13:14:55.840 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-08-19 13:14:55.841 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-08-19 13:14:55.861 [info] ExtensionService#_doActivateExtension mohamedbenhida.laravel-intellisense, startup: true, activationEvent: '*'
+2024-08-19 13:14:55.930 [error] Activating extension mohamedbenhida.laravel-intellisense failed due to an error:
+2024-08-19 13:14:55.930 [error] TypeError: Cannot use 'in' operator to search for 'uri' in undefined
+    at registerCommand (/root/.vscode/extensions/mohamedbenhida.laravel-intellisense-0.2.0/src/utils.ts:59:6)
+    at x (/root/.vscode/extensions/mohamedbenhida.laravel-intellisense-0.2.0/src/extension.ts:16:14)
+    at Function.kb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:13608)
+    at Function.jb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:13280)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:11267
+    at m.n (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:6409)
+    at m (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:6372)
+    at m.l (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:5829)
+2024-08-19 13:14:55.931 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-19 13:14:55.950 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-19 13:14:56.011 [info] Eager extensions activated
+2024-08-19 13:14:56.012 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:14:56.014 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:14:56.019 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:14:56.022 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:14:56.028 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:14:56.033 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:15:03.661 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-19 13:15:03.671 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-19 13:15:03.708 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-08-19 13:15:03.739 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-19 13:15:09.670 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-19 13:15:09.697 [info] Extension host with pid 13696 exiting with code 0
+2024-08-19 13:15:10.245 [info] Extension host with pid 13811 started
+2024-08-19 13:15:10.245 [info] Skipping acquiring lock for /opt/lampp/htdocs/webdesa/User/workspaceStorage/4fe667cdf722e8c33eb4ff7e1138ebc1.
+2024-08-19 13:15:10.474 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-08-19 13:15:10.477 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-08-19 13:15:10.478 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-08-19 13:15:10.517 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-19 13:15:10.610 [info] Eager extensions activated
+2024-08-19 13:15:10.611 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:15:10.613 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:15:10.618 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:15:11.733 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2024-08-19 13:15:11.756 [info] ExtensionService#_doActivateExtension mohamedbenhida.laravel-intellisense, startup: false, activationEvent: '*'
+2024-08-19 13:15:11.759 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:15:11.762 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:15:11.766 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2024-08-19 13:15:11.910 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-19 13:15:11.958 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-08-19 13:16:25.212 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2024-08-19 13:16:25.221 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2024-08-19 13:16:46.712 [info] Extension host terminating: renderer closed the MessagePort
+2024-08-19 13:16:46.729 [error] An error occurred when disposing the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+2024-08-19 13:16:46.736 [error] TypeError: Cannot read private member #e from an object whose class did not declare it
+    at Object.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4246)
+    at $ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:13379
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+    at Object.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11354)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10056)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7927
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7914)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8187)
+    at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285)
+2024-08-19 13:16:46.743 [error] Canceled: Canceled
+    at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205942)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at A.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:204704)
+    at d.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:206481)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205473)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:23060)
+    at i.O [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:951642)
+    at n.B (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+    at n.C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:807)
+    at n.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:1023)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:972220)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978342
+    at Array.forEach (<anonymous>)
+    at f.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978328)
+    at a.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4173)
+    at a.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at a.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:953940)
+    at a.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at $ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:13379
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+    at Object.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11354)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10056)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7927
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7914)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8187)
+    at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-19 13:16:46.746 [error] Canceled: Canceled
+    at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:144:35204)
+    at E.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:6017)
+    at Proxy.B.<computed>.j.charCodeAt.R.CharCode.DollarSign.B.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3107)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205942)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at A.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:204704)
+    at d.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:206481)
+    at d.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205473)
+    at d.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:154:205380)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:23060)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:322969)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:323928
+    at i.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1060193)
+    at n.B (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:737)
+    at n.C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:807)
+    at n.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:1023)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:972220)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978342
+    at Array.forEach (<anonymous>)
+    at f.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:978328)
+    at a.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4173)
+    at a.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at a.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:953940)
+    at a.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:152:4270)
+    at $ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:13379
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:1112
+    at Object.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:11:11354)
+    at m.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:10056)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7927
+    at Array.map (<anonymous>)
+    at m.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:7914)
+    at m.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:8187)
+    at $.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:164:1513)
+    at o (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:10633)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:177:6825)
+    at MessagePortMain.emit (node:events:519:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-08-19 13:16:46.746 [info] Extension host with pid 13811 exiting with code 0
